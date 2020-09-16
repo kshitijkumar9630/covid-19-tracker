@@ -1,0 +1,16 @@
+    * {
+        font-family: 'Kumbh Sans', sans-serif;
+        font-weight: 700;
+    }
+    
+    .header-three {
+        font-size: 25px;
+    }
+    
+    .jumbotron {
+        background: repeating-linear-gradient( 45deg, #009688, #009688 10px, #00796B 10px, #00796B 20px);
+    }
+    
+    nav {
+        max-width: 110px!important;
+    }
